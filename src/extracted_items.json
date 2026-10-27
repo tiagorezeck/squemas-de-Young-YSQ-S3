@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "text": "Não tenho ninguém que cuide de mim, que partilhe comigo a sua vida ou que se preocupe realmente com tudo que me acontece."
+  },
+  {
+    "id": 2,
+    "text": "Costumo me apegar demais às pessoas que são mais próximas, pois tenho medo que elas me abandonem."
+  },
+  {
+    "id": 3,
+    "text": "Sinto que as pessoas vão se aproveitar de mim."
+  },
+  {
+    "id": 4,
+    "text": "Sou um(a) desajustado(a)."
+  },
+  {
+    "id": 5,
+    "text": "Nenhum homem/mulher de quem eu goste pode gostar de mim depois de conhecer os meus defeitos ou fraquezas."
+  },
+  {
+    "id": 6,
+    "text": "Quase nada do que faço no trabalho (ou na escola) é tão bom como o que os outros são capazes de fazer."
+  },
+  {
+    "id": 7,
+    "text": "Não me sinto capaz de me virar sozinho(a) no dia-a-dia."
+  },
+  {
+    "id": 8,
+    "text": "Não consigo deixar de sentir que alguma coisa de ruim está para acontecer."
+  },
+  {
+    "id": 9,
+    "text": "Não consigo me separar dos meus pais, tal como fazem as outras pessoas da minha idade."
+  },
+  {
+    "id": 10,
+    "text": "Sinto que, se fizer o que eu quero, só vou arranjar encrencas."
+  },
+  {
+    "id": 11,
+    "text": "Sou sempre eu que acabo por tomar conta das pessoas que são mais chegadas em mim."
+  },
+  {
+    "id": 12,
+    "text": "Sou controlado(a) demais para revelar meus sentimentos positivos aos outros (por ex., afeto, mostrar que me preocupo)."
+  },
+  {
+    "id": 13,
+    "text": "Tenho que ser o(a) melhor em quase tudo o que faço; não aceito ficar em segundo lugar."
+  },
+  {
+    "id": 14,
+    "text": "Tenho muita dificuldade em aceitar um não como resposta quando quero alguma coisa dos outros."
+  },
+  {
+    "id": 15,
+    "text": "Não sou capaz de me forçar a ter disciplina suficiente para cumprir tarefas rotineiras ou aborrecidas."
+  },
+  {
+    "id": 16,
+    "text": "Ter dinheiro e conhecer pessoas importantes me faz sentir uma pessoa de valor."
+  },
+  {
+    "id": 17,
+    "text": "Mesmo quando as coisas parecem estar indo bem, sinto que isso é apenas temporário."
+  },
+  {
+    "id": 18,
+    "text": "Se cometer um erro, mereço ser castigado."
+  },
+  {
+    "id": 19,
+    "text": "Não tenho pessoas que me dêem carinho, apoio e afeto."
+  },
+  {
+    "id": 20,
+    "text": "Preciso tanto dos outros que me preocupo com o fato de poder perde-los."
+  },
+  {
+    "id": 21,
+    "text": "Sinto que tenho sempre que me defender na presença dos outros, senão eles me magoarão intencionalmente."
+  },
+  {
+    "id": 22,
+    "text": "Sou fundamentalmente diferente dos outros."
+  },
+  {
+    "id": 23,
+    "text": "Ninguém que me agrade gostaria de ficar comigo depois de me conhecer do jeito que realmente sou."
+  },
+  {
+    "id": 24,
+    "text": "Sou um(a) incompetente quando se trata de atingir objetivos ou de realizar uma tarefa no trabalho (ou na escola)."
+  },
+  {
+    "id": 25,
+    "text": "Considero-me uma pessoa dependente em relação ao que tenho que fazer no dia-a-dia."
+  },
+  {
+    "id": 26,
+    "text": "Sinto que uma desgraça (natural, criminal, financeira ou médica) pode me atingir a qualquer momento."
+  },
+  {
+    "id": 27,
+    "text": "Eu e meus pais temos a tendência de ns envolvermos demais na vida e nos problemas uns dos outros."
+  },
+  {
+    "id": 28,
+    "text": "Sinto que não tenho outro remédio senão ceder à vontade dos outros, caso contrário, eles me retaliarão, se zangarão ou me rejeitarão de alguma maneira."
+  },
+  {
+    "id": 29,
+    "text": "Sou uma boa pessoa porque penso mais nos outros do que em mim."
+  },
+  {
+    "id": 30,
+    "text": "Considero constrangedor expressar meus sentimentos aos outros."
+  },
+  {
+    "id": 31,
+    "text": "Esforço-me para fazer o melhor; não me contento em ser suficientemente bom."
+  },
+  {
+    "id": 32,
+    "text": "Sou especial e não devia ser obrigado(a) a aceitar muitas das restrições ou limitações que são impostas aos outros."
+  },
+  {
+    "id": 33,
+    "text": "Se não consigo atingir um objetivo, fico facilmente frustrado(a) e desisto."
+  },
+  {
+    "id": 34,
+    "text": "Aquilo que consigo alcançar tem mais valor para mim se for algo em que os outros reparem."
+  },
+  {
+    "id": 35,
+    "text": "Se algo de bom acontecer, fico preocupado(a) se algo de ruim não vai acontecer em seguida."
+  },
+  {
+    "id": 36,
+    "text": "Se não me esforçar ao máximo, é de esperar que as coisas corram mal."
+  },
+  {
+    "id": 37,
+    "text": "Sinto que não sou uma pessoa especial para ninguém."
+  },
+  {
+    "id": 38,
+    "text": "Preocupa-me que as pessoas a quem estou ligado(a) me deixem ou me abandonem."
+  },
+  {
+    "id": 39,
+    "text": "Mais cedo ou mais tarde acabarei sendo traído(a) por alguém."
+  },
+  {
+    "id": 40,
+    "text": "Sinto que não pertenço a grupo nenhum; sou um solitário."
+  },
+  {
+    "id": 41,
+    "text": "Não tenho valor suficiente para merecer o amor, a atenção e o respeito dos outros."
+  },
+  {
+    "id": 42,
+    "text": "A maioria das pessoas tem mais capacidades do que eu no que diz respeito ao trabalho (ou à escola)."
+  },
+  {
+    "id": 43,
+    "text": "Falta-me bom senso."
+  },
+  {
+    "id": 44,
+    "text": "Fico preocupado(a) com a possibilidade de ser fisicamente agredido por alguém."
+  },
+  {
+    "id": 45,
+    "text": "É muito difícil, para mim e para os meus pais, termos segredos íntimos que não contamos uns aos outros sem nos sentirmos traídos ou culpados por isso."
+  },
+  {
+    "id": 46,
+    "text": "Em meus relacionamentos com os outros, deixo que me dominem."
+  },
+  {
+    "id": 47,
+    "text": "Estou tão ocupado(a) fazendo coisas para as pessoas de quem gosto que tenho pouco tempo para mim."
+  },
+  {
+    "id": 48,
+    "text": "Para mim é difícil ser afetuoso(a) e espontâneo(a) com os outros."
+  },
+  {
+    "id": 49,
+    "text": "Tenho de estar à altura de todas as minhas responsabilidades e funções."
+  },
+  {
+    "id": 50,
+    "text": "Detesto ser reprimido(a) ou impedido(a) de fazer o que eu quero."
+  },
+  {
+    "id": 51,
+    "text": "Tenho muita dificuldade em abdicar de uma recompensa ou prazer imediato em favor de um objetivo em longo prazo."
+  },
+  {
+    "id": 52,
+    "text": "Sinto-me pouco importante, a não ser que receba muita atenção dos outros."
+  },
+  {
+    "id": 53,
+    "text": "Todo o cuidado é pouco; quase sempre alguma coisa vai mal."
+  },
+  {
+    "id": 54,
+    "text": "Se não fizer bem o que me complete, mereço sofrer as conseqüências."
+  },
+  {
+    "id": 55,
+    "text": "Não tenho ninguém que me ouça com atenção, me compreenda ou perceba meus verdadeiros sentimentos e necessidades."
+  },
+  {
+    "id": 56,
+    "text": "Quando sinto que alguém de quem eu gosto está se afastando de mim, fico desesperado."
+  },
+  {
+    "id": 57,
+    "text": "Sou bastante desconfiado quanto às intenções das outras pessoas."
+  },
+  {
+    "id": 58,
+    "text": "Sinto-me distante ou desligado dos outros."
+  },
+  {
+    "id": 59,
+    "text": "Sinto que nunca poderei ser amado por alguém."
+  },
+  {
+    "id": 60,
+    "text": "Não sou tão talentoso(a) no trabalho como a maioria das pessoas."
+  },
+  {
+    "id": 61,
+    "text": "Não se pode confiar no meu julgamento em situações do dia-a-dia."
+  },
+  {
+    "id": 62,
+    "text": "Fico preocupado(a) com a possibilidade de perder todo o dinheiro que tenho e ficar muito pobre ou na miséria."
+  },
+  {
+    "id": 63,
+    "text": "Freqüentemente sinto como se meus pais vivessem atrás de mim – não tenho uma vida própria."
+  },
+  {
+    "id": 64,
+    "text": "Sempre deixei que os outros escolhessem por mim; por isso, não sei o que quero para mim realmente."
+  },
+  {
+    "id": 65,
+    "text": "Sou sempre eu quem ouve os problemas dos outros."
+  },
+  {
+    "id": 66,
+    "text": "Controlo-me tanto que as pessoas pensam que não tenho sentimentos ou que tenho um coração de pedra."
+  },
+  {
+    "id": 67,
+    "text": "Sinto uma pressão constante sobre mim para fazer coisas e atingir objetivos."
+  },
+  {
+    "id": 68,
+    "text": "Sinto que não devia ter que seguir as regras e convenções habituais que as outras pessoas têm que seguir."
+  },
+  {
+    "id": 69,
+    "text": "Não consigo me obrigar a fazer coisas de que não gosto, mesmo quando sei que é para o meu bem."
+  },
+  {
+    "id": 70,
+    "text": "Quando faço uma intervenção em uma reunião ou quando sou apresentado a alguém em um grupo, para mim é importante obter reconhecimento e admiração."
+  },
+  {
+    "id": 71,
+    "text": "Por mais que trabalhe, fico preocupado(a) com a possibilidade de ficar na miséria e perder quase tudo o que possuo."
+  },
+  {
+    "id": 72,
+    "text": "Não interessa o motivo pelo qual cometi um erro; quando faço algo errado, é preciso arcar com as conseqüências."
+  },
+  {
+    "id": 73,
+    "text": "Não tenho uma pessoa forte ou sensata para me dar bons conselhos e me dizer o que fazer quando não tenho certeza sobre a atitude que devo tomar."
+  },
+  {
+    "id": 74,
+    "text": "Às vezes, a preocupação que tenho com a possibilidade de as pessoas me deixarem é tão grande que acabo por afastá-las."
+  },
+  {
+    "id": 75,
+    "text": "Estou habitualmente à procura de segundas intenções ou do verdadeiro motivo por trás do comportamento dos outros."
+  },
+  {
+    "id": 76,
+    "text": "Em grupo, sempre sinto que estou de fora."
+  },
+  {
+    "id": 77,
+    "text": "Sou inaceitável demais para poder me mostrar tal como sou para as outras pessoas ou para deixar que me conheçam bem."
+  },
+  {
+    "id": 78,
+    "text": "No que diz respeito ao trabalho (ou à escola), não sou tão inteligente como a maior parte das pessoas."
+  },
+  {
+    "id": 79,
+    "text": "Não tenho confiança em minhas capacidades para resolver problemas que surjam no dia-a-dia."
+  },
+  {
+    "id": 80,
+    "text": "Fico preocupado(a) com a possibilidade de estar desenvolvendo alguma doença grave, mesmo que o médico não tenha diagnosticado nada de grave."
+  },
+  {
+    "id": 81,
+    "text": "Sinto freqüentemente que não tenho uma identidade separada da dos meus pais ou companheiro(a)."
+  },
+  {
+    "id": 82,
+    "text": "Tenho imenso trabalho para conseguir que os meus sentimentos sejam levados em consideração e os meus direitos sejam respeitados."
+  },
+  {
+    "id": 83,
+    "text": "As outras pessoas acham que faço muito pelos outros e não faço o suficiente por mim."
+  },
+  {
+    "id": 84,
+    "text": "As pessoas acham que tenho dificuldade em expressar o que sinto."
+  },
+  {
+    "id": 85,
+    "text": "Não posso descuidar de minhas obrigações de forma leviana, nem me desculpar pelos meus erros."
+  },
+  {
+    "id": 86,
+    "text": "Sinto que o que tenho para oferecer tem mais valor do que aquilo que os outros têm para dar."
+  },
+  {
+    "id": 87,
+    "text": "Raramente consigo levar minhas decisões até o fim."
+  },
+  {
+    "id": 88,
+    "text": "Receber muitos elogios dos outros me faz sentir como uma pessoa que tem valor."
+  },
+  {
+    "id": 89,
+    "text": "Fico preocupado(a) com a possibilidade de uma decisão errada provocar uma catástrofe."
+  },
+  {
+    "id": 90,
+    "text": "Sou uma pessoa má que merece ser castigada."
+  }
+]

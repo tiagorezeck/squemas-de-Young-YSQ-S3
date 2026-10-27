@@ -1,0 +1,6 @@
+{
+  "name": "YSQ-S3 Assessment: Questionário de Esquemas de Young",
+  "description": "Plataforma moderna de avaliação e laudos dinâmicos dos Esquemas Iniciais Desadaptativos (YSQ-S3 de Jeffrey Young) com relatórios explicativos personalizados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
